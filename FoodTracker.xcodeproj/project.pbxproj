@@ -86,11 +86,11 @@
 			isa = PBXGroup;
 			children = (
 				8B2241671E20D5E60078E9D7 /* AppDelegate.swift */,
+				8BEAD21C1E271DAB005793D1 /* MealTableViewController.swift */,
 				8B2241691E20D5E60078E9D7 /* MealViewController.swift */,
 				8B0EECB51E24BC5300949CF7 /* RatingControl.swift */,
 				8BEAD2181E25D448005793D1 /* Meal.swift */,
 				8BEAD21A1E267EDB005793D1 /* MealTableViewCell.swift */,
-				8BEAD21C1E271DAB005793D1 /* MealTableViewController.swift */,
 				8B22416B1E20D5E60078E9D7 /* Main.storyboard */,
 				8B22416E1E20D5E60078E9D7 /* Assets.xcassets */,
 				8B2241701E20D5E60078E9D7 /* LaunchScreen.storyboard */,
@@ -359,7 +359,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9EY44LM4YH;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.suzhenyu.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -373,7 +373,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9EY44LM4YH;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.github.suzhenyu.FoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
